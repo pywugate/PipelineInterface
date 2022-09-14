@@ -5,6 +5,7 @@ This Pipeline interface is used to preprocessing the data from Femtonics MESc/ME
  1. If you have two colour channels, channel 1 or channel 2 as dynamic (such as GCaMP) are both suitable.
  2. The parameters of registration will be saved.
  3. The size of cropped ROI will be saved and can be used in the future.
+ 4. *xy-t* and *xyz-t* data are suitable (step2 & 3 can be skipped for *xyz* data)
 
 ##### Snapshot of Pipeline Interface
 ![Pipeline Interface](https://github.com/pywugate/PipelineInterface/blob/547fafd54fb521b7e1ec7f192dea23fb7c1be299/photos/Pipeline.png)
