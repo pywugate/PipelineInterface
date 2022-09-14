@@ -2,7 +2,7 @@
 
 This Pipeline interface is used to preprocessing the data from Femtonics MESc/MES
 ##### Snapshot of Pipeline Interface
-![Pipeline Interface](https://github.com/pywugate/PipelineInterface/blob/225d2a4a651661be82fca60d3f0a2ae02c4703bd/photos/Step1.png)
+![Pipeline Interface](https://github.com/pywugate/PipelineInterface/blob/547fafd54fb521b7e1ec7f192dea23fb7c1be299/photos/Pipeline.png)
 
 
 # How to use:
