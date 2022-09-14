@@ -23,7 +23,7 @@ No this function now, please use Femtonics softwares
 ## Step1: Convert OMETIFF to TIFF
 Use BioFormats tools to read and save as uint16 tiff files.
 
-Different colour channels and different planes will be seperated and saved.
+Different colour channels and different planes will be separated and saved.
 
 
 
