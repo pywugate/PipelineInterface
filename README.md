@@ -5,9 +5,15 @@ This Pipeline interface is used to preprocessing the data from Femtonics MESc/ME
 There are several steps:
  
 ## Step0: Export OMETIFF 
-no this function now, please use Femtonics softwares
+No this function now, please use Femtonics softwares
 
 ## Step1: Convert OMETIFF to TIFF
+Use BioFormats tools to read and save as uint16 tiff files.
+
+Different colour channels and different planes will be seperated and saved.
+
+
+
 
 ***
 #### *Important: if your data is not times seires, please skip Step 2 and 3*
