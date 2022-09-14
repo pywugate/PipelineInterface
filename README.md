@@ -2,7 +2,11 @@
 
 This Pipeline interface is used to preprocessing the data from Femtonics MESc/MES
 
-There are several steps:
+# How to use:
+1. Download the whole repos/zip file.
+2. Run the *PipelineInterface.mlapp* in the PipelineInterface subfolder
+
+# Outline of the pipeline, there are some steps as below:
  
 ## Step0: Export OMETIFF 
 No this function now, please use Femtonics softwares
