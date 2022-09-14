@@ -13,8 +13,12 @@ This Pipeline interface is used to preprocessing the data from Femtonics MESc/ME
 
 # How to use:
 1. Download the whole repos/zip file.
-2. Add folder and subfolders into matlab path.
-3. Run the *PipelineInterface.mlapp* in the PipelineInterface subfolder
+2. Download following tools
+ - NoRMCorre from (https://github.com/flatironinstitute/NoRMCorre)
+ - BioFormats for matlab (https://www.openmicroscopy.org/bio-formats/downloads/)
+ - Multipage TIFF stack (https://www.mathworks.com/matlabcentral/fileexchange/35684-multipage-tiff-stack)
+3. Add folder and subfolders into matlab path.
+4. Run the *PipelineInterface.mlapp* in the PipelineInterface subfolder
 
 # Outline of the pipeline, there are some steps as below:
  
