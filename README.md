@@ -2,7 +2,7 @@
 
 This Pipeline interface is used to preprocessing the data from Femtonics MESc/MES.
 - Features: 
- 1. If you have two colour channels, channel 1 as GCaMP (dynamic), or channel 2 as GCaMP (dynamic) are both suitable.
+ 1. If you have two colour channels, channel 1 or channel 2 as GCaMP (dynamic) are both suitable.
  2. The parameters of registration will be saved.
  3. The size of cropped ROI will be saved and can be used in the future.
 
