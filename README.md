@@ -8,8 +8,7 @@ This Pipeline interface is used to preprocessing the data from Femtonics MESc/ME
  4. *xy-t* and *xyz-t* data are suitable (step2 & 3 can be skipped for *xyz* data)
 
 ##### Snapshot of Pipeline Interface
-![Pipeline Interface](https://github.com/pywugate/PipelineInterface/blob/547fafd54fb521b7e1ec7f192dea23fb7c1be299/photos/Pipeline.png)
-
+![Pipeline Interface](photos/Pipeline.png)
 
 # How to use:
 1. Download the whole repos/zip file.
@@ -42,7 +41,7 @@ We use NoRMCorre to register the data.
 Please go to website and original article for more details
 
 ##### Snapshot of Step2
-![Step2](https://github.com/pywugate/PipelineInterface/blob/225d2a4a651661be82fca60d3f0a2ae02c4703bd/photos/Step2.png)
+![Step2](photos/Step2.png)
 
 - *Github:*
 
@@ -58,4 +57,4 @@ There are noise at the border after registration,
 this step let you crop the data and reduce the noise
 
 ##### Snapshot of Step3
-![Step3](https://github.com/pywugate/PipelineInterface/blob/225d2a4a651661be82fca60d3f0a2ae02c4703bd/photos/Step3.png)
+![Step3](photos/Step3.png)
