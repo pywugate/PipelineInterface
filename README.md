@@ -41,7 +41,6 @@ We use NoRMCorre to register the data.
 Please go to website and original article for more details
 
 ##### Snapshot of Step2
-![Step2](photos/Step2.png)
 
 - *Github:*
 
